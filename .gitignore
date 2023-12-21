@@ -1,0 +1,11 @@
+# Config
+.vscode
+
+# Compiled files and directores
+*.o
+*.elf
+*.hex
+*.a
+*.out
+
+build/
